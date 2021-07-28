@@ -1,20 +1,23 @@
 # IDEAS (TODO MAYBE)
 
 
+## Общие идеи
+- Сделать хуки на компил карты каждые 24 часа. Как буду реализовывать это - хз, но я попробую. Касаться будет это только ночных сборок.
+
 
 ## RP_JUPITER_V1 :
 - 
 - 
-- TODO MAYBE
+- TODO наверное
 
 
 
 
 ## RP_UTEAM_JUPITER_V1 :
-- DONT TOUCH THIS MAP
+- не трогать эту карту
 
 
 
 
 ## RP_REWORK_JUPITER_V1 :
-- INCLUDE NIGHTLY THINGS THAT LOOKS STABLE, MAYBE
+- включать изменения, которые не будут ломать клиент или не позволять компилить карту
