@@ -1,9 +1,1 @@
-# WHAT ABOUT I WANT TO WRITE HERE
-
-
-
-## Q/A :
-- WHY I WRITE LIKE CRAZY?
-	BECAUSE IT IS LOOKS CRAZY, А ВООБЩЕ ХОЧУ И ПИШУ
-- WHY I CREATE THIS REPO?
-	IN THIS REPO I CAN BACKUP MY WORKS AND DON'T MAKE SHIT
+# Ладно, тут кроч я думаю вести документацию, а то могу путаться с тем, что да как у меня на карте работает. Описание механик, возможно даже тех, которых нет. Так шо да, все вот так вот.
