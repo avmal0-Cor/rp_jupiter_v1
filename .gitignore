@@ -1,2 +1,4 @@
 [Bb][Uu][Ii][Ll][Dd][Ss]/
 *.prt
+# Don't include bsp files because it is shit
+*.bsp
