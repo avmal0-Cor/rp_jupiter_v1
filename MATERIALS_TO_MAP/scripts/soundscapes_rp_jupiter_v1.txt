@@ -1,0 +1,13 @@
+"jupiter_mains"
+{
+    "dsp"    "1"
+
+
+"playlooping"
+    {
+        "volume"    "0.1"
+        "wave"    "jupiter/full_wave/jupiter_ambient_v1.ogg"
+        "pitch"        "100"
+
+    }
+}
