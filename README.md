@@ -1,4 +1,3 @@
-# rp_jupiter_v1
 ![image info](./IMAGES/git_repo_logo.png)
 
 ## Вообщем, хотел бы описать немного мыслей по поводу того, что тут
