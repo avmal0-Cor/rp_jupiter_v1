@@ -34,7 +34,7 @@ Finding displacement neighbors...
 Finding lightmap sample positions...
 Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
 Building Physics collision data...
-done (3) (2941875 bytes)
+done (3) (2942906 bytes)
 WARNING! model "models/props/gg_tibet/bookclosed.mdl" has mismatching model version (49, expected 48)! Expect problems.
 Placing detail props : 0Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
@@ -81,8 +81,8 @@ Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses 
 .6...7...8...9...10
 Water found with no water_lod_control entity, creating a default one.
 Compacting texture/material tables...
-Reduced 13697 texinfos to 8107
-Reduced 327 texdatas to 307 (11844 bytes to 10981)
+Reduced 13704 texinfos to 8112
+Reduced 329 texdatas to 309 (11999 bytes to 11107)
 ***need to set $abovewater for material maps/rp_jupiter_v1/water/water_slime01_-272_-8645_-448
 ***need to set $abovewater for material maps/rp_jupiter_v1/water/water_slime01_-272_-8645_-448
 Writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
@@ -93,13 +93,13 @@ Writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\
 4 threads
 reading c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
 reading c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.prt
-7506 portalclusters
-20141 numportals
-0...1...2...3...4...5...6...7...8...9...10Optimized: 551459 visible clusters (9.58%)
-Total clusters visible: 5757472
-Average clusters visible: 767
+7700 portalclusters
+20619 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 549544 visible clusters (9.51%)
+Total clusters visible: 5778823
+Average clusters visible: 750
 Building PAS...
-Average clusters audible: 2235
-visdatasize:4778641  compressed from 14171328
+Average clusters audible: 2180
+visdatasize:4972412  compressed from 14907200
 writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
 9 seconds elapsed
