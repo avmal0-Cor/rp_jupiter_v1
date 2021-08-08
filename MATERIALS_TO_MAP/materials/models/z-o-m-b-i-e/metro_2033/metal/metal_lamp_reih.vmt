@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Z-O-M-B-I-E/metro_2033/metal/metal_library_l_alpha_01"
+	"$surfaceprop" "metal"
+	"$nodecal" "1"
+	"$alphatest" "1"
+}

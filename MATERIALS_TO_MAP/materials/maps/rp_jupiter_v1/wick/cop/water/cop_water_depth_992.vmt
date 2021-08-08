@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/wick/cop/water/cop_water.vmt"
+	"insert"
+	{
+		"$waterdepth"		"992"
+	}
+}

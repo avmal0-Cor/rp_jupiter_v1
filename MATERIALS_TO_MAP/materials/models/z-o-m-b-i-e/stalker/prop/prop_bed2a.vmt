@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_bed2a"
+	//"$bumpmap_offed" "z-o-m-b-i-e/STALKER/prop/prop_bed2a_norm"
+	"$surfaceprop" "carpet"
+}

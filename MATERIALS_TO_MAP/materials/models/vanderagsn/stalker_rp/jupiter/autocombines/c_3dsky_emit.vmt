@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "agroprom/jupiter_terrain3d"
+	"$surfaceprop" "Grass"
+}

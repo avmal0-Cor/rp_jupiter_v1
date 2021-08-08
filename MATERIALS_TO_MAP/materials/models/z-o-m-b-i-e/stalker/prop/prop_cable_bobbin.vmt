@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_cable_bobbin"
+	"$//bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_cable_bobbin_norm"
+	"$surfaceprop" "paper"
+}

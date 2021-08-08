@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/graffiti_060"
+	"$translucent" 1
+	"$decal" "1"
+	"$decalscale" 0.065
+}

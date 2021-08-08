@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/mtl/mtl_high_tention_tower"
+	//"$bumpmap" "z-o-m-b-i-e/STALKER/mtl/mtl_high_tention_tower_norm"
+	"$surfaceprop" "metal"
+	"$nodecal" "1"
+	"$alphatest" "1"
+}

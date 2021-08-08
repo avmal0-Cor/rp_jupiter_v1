@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/glass/glass_glass"
+	//"$bumpmap" "z-o-m-b-i-e/metro_2033/glass/glass_glass_norm"
+	"$surfaceprop" "glass"
+	
+}

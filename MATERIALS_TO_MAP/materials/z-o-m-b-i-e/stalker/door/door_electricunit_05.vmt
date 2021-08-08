@@ -1,0 +1,10 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/door/door_electricunit_05"
+	//"$bumpmap" "z-o-m-b-i-e/STALKER/door/door_electricunit_05_norm"
+	"$surfaceprop" "metal"
+	"$detail" "z-o-m-b-i-e/STALKER/detail/detail_metall_det2_v"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "1.2"
+	"$detailblendmode" "0"
+}

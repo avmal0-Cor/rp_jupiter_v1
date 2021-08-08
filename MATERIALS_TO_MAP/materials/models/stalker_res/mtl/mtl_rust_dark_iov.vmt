@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/mtl/mtl_rust_dark_iov"
+      	//"$bumpmap_offed" "models/stalker_res/mtl/mtl_rust_dark_normal"
+
+	//"$detail" "models/stalker_res/detail/detail_metall_det2"
+	//"$detailscale" "1.5"
+	//"$detailblendfactor" 1.2
+	//"$detailblendmode" 0
+}

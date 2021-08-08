@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/window/window_window"
+	//"$bumpmap" "z-o-m-b-i-e/metro_2033/window/window_window_norm"
+	"$surfaceprop" "glass"
+}

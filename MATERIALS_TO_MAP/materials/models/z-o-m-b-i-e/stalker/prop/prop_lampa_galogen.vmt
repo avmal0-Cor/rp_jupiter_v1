@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_lampa_galogen_alpha"
+	//"$//bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_lampa_galogen_norm"
+	"$surfaceprop" "metal"
+	"$detail" "z-o-m-b-i-e/STALKER/detail/detail_metall_det2_u"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "1.0"
+	"$detailblendmode" "0"
+}

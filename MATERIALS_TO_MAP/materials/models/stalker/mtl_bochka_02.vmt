@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/STALKER/mtl_bochka_02"
+	"$bumpmap" "models/STALKER/mtl_bochka_02_norm"
+	"$surfaceprop" "metal"
+	"$detail" "models/STALKER/detail_metall_det1"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "1.0"
+	"$detailblendmode" "0"
+
+"$reflectivity" "[.5 .5 .5]"
+
+
+
+"$ssbump" "1"
+"$parallaxmapscale" "1" 
+
+"$rimlightboost" ".5"
+"$rimmask" "1"
+"$rimlight" "1"
+"$rimlightexponent" "3"
+
+
+	"$halflambert" "1"
+}

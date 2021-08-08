@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/zavod_yantar/Truba_metal_2"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/props/props_lamp_nastennaya"
+	//"$bumpmap" "z-o-m-b-i-e/metro_2033/props/props_lamp_nastennaya_norm"
+	"$surfaceprop" "glass"
+	"$selfillum" "1"
+	"$selfIllumFresnelMinMaxExp" "0.0 2.0 2.0"
+}
+
+	

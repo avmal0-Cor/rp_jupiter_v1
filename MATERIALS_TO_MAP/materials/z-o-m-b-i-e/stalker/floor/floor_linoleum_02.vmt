@@ -1,0 +1,12 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/floor/floor_linoleum_02"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/floor/floor_linoleum_02_norm"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ 0.2 0.2 0.2 ]" //"[ .25 .25 .25 ]"
+	"HDR" { "$envmaptint" "0.13 0.13 0.13" }
+}

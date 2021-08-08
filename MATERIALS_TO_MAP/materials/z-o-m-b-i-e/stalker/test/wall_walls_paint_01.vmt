@@ -1,0 +1,19 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/test/wall_walls_paint_01"
+	//"$bumpmap" "z-o-m-b-i-e/STALKER/test/wall_walls_paint_01_norm"
+	"$surfaceprop" "concrete"
+	"$detail" "z-o-m-b-i-e/STALKER/detail/detail_beton_det4"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "1.0"
+	"$detailblendmode" "0"
+	
+	
+	
+	
+	"//$envmaptint" "[ 0.2 0.2 0.2 ]" //"[ .25 .25 .25 ]"
+	//"HDR" { "//$envmaptint" "0.13 0.13 0.13" }
+	//"//$envmaptint" "[ .3 .3 .45 ]" 
+	//"$envmapmask" "z-o-m-b-i-e/STALKER/test/wall_walls_paint_01_norm"
+	//"//$envmaptint" "[ .04 .04 .04 ]"
+}

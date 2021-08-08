@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/liquids/c4a1_water_green_below.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_jupiter_v1/c-272_-8645_-448"
+		"Proxies"
+		{
+		}
+	}
+}

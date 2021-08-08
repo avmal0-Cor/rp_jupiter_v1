@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture" "skybox/zaton/c_expos_zaton_evening_bk"
+
+	"$ignorez" "1"
+	"$nofog" "1"
+}

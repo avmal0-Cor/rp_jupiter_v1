@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/Z-O-M-B-I-E/STALKER/TILE/TILE_WALLS_PINK_01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_jupiter_v1/c-272_-8645_-448"
+	}
+}

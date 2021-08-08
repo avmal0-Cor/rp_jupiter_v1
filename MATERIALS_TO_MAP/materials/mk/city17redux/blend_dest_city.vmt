@@ -1,0 +1,13 @@
+"LightMappedGeneric"
+{
+	"$basetexture"			"concrete/concretefloor020b"
+	"$basetexture2" 		"spineroyal/destruction/destruct_rubble1_spi"
+
+	"$surfaceprop" 			"concrete"
+	"$surfaceprop2" 		"concrete"
+
+	"$blendmodulatetexture" 	"mk/city17redux/blendmodulate_002"	
+
+	"$ssbump" 			"1"
+	"$seamless_scale" ".0047"
+}

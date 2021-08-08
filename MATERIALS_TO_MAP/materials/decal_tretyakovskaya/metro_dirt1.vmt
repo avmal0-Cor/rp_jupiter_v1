@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decal_tretyakovskaya/metro_dirt1"
+	"$translucent" "1"
+	"$decalscale" 0.25
+	"$decal" "1"
+}

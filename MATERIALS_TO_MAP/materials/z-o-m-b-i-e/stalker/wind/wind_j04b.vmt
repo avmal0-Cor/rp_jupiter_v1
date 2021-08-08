@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/wind/wind_j04b"
+	//"$bumpmap" "z-o-m-b-i-e/STALKER/wind/wind_j04b_norm"
+	"$surfaceprop" "glass"
+}

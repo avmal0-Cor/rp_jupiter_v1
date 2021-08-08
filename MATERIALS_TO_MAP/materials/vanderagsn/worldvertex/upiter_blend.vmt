@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/detail/detail_grnd_asphalt"
+	"$basetexturetransform"		"center 2.0645 2.0645 scale 32 32 rotate 0 translate 0 0"
+	"$baseTexture2" "z-o-m-b-i-e\stalker\grnd\grnd_shlak_03"
+	"$surfaceprop" "concrete"
+	"$detail"		"agroprom/jupiter_terrain"
+			"$detailscale"		"0.0078125"
+			"$detailblendmode"		"0"
+	"%detailtype" "grass01"
+}

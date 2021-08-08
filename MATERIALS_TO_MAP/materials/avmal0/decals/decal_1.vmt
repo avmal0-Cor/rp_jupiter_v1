@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+    $basetexture avmal0/decals/decal_1
+    $bumpmap     avmal0/decals/decal_1_normal
+    $decal       1
+ // $translucent 1
+    $alphatest   1
+ // $envmap      env_cubemap
+    %keywords    decal,avmal0,stalker,decal1
+ // $modelname   avmal0/decals/decal_1 -- check in future
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/mtl/mtl_fence2"
+	//"$bumpmap_offed" "z-o-m-b-i-e/STALKER/mtl/mtl_fence2_norm"
+	"$surfaceprop" "metal"
+	"$nodecal" "1"
+	"$alphatest" "1"
+}
+	

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "black1dez/OLR/props/prop_freez"
+
+	$nocull 1
+}

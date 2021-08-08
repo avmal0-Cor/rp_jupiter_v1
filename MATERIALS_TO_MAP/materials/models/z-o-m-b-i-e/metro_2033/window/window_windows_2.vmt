@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/window/window_windows_2"
+	//"$bumpmap_offed" "z-o-m-b-i-e/metro_2033/window/window_windows_2_norm"
+	"$surfaceprop" "wood"
+}

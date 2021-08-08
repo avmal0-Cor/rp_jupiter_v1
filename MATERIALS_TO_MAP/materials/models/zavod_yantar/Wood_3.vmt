@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	
+	"$basetexture" "models/zavod_yantar/Wood_3"
+	"$alphatest" "1"
+	"$nocull" "1"
+}

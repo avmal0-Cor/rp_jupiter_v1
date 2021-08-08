@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/rp_jupiter_v1/liquids/c4a1_water_green_-272_-8645_-448.vmt"
+	"insert"
+	{
+		"$waterdepth"		"811"
+	}
+}

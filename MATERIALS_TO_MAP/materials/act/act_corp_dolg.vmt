@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+$basetexture "act/act_corp_dolg"
+$bumpmap "act/act_corp_dolg_bump"
+$surfaceprop flesh
+}

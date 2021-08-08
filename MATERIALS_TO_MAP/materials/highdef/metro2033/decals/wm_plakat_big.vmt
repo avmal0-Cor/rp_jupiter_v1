@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "highdef/metro2033/decals/wm_plakat_big"
+	"$decal" "1"
+	"$decalscale" ".05"
+	"%keywords" "metro"
+	"$translucent" 1
+}

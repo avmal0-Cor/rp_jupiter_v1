@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "OptiNVfallout\cinderblock1"
+	"$alphatest" "1"
+	"$nocull" "0"
+	"$halflambert" "1" }
+
+

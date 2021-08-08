@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/props/props_lamp_indust"
+	//"$bumpmap" "z-o-m-b-i-e/metro_2033/props/props_lamp_indust_norm"
+	"$surfaceprop" "metal"
+	"$detail" "z-o-m-b-i-e/STALKER/detail/detail_metall_det1"
+	"$detailscale" "10.00"
+	"$detailblendfactor" "1.0"
+	"$detailblendmode" "0"
+	"$selfillum" "1"
+	"$selfIllumFresnelMinMaxExp" "0.0 2.0 2.0"
+}

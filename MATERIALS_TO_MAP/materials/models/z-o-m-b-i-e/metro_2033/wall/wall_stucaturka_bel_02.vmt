@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/wall/wall_stucaturka_bel_02"
+	//"$bumpmap" "z-o-m-b-i-e/metro_2033/wall/wall_stucaturka_bel_02_norm"
+	"$surfaceprop" "concrete"
+	"$detail" "z-o-m-b-i-e/metro_2033/det/det_concrete_2"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "1.0"
+	"$detailblendmode" "0"
+}

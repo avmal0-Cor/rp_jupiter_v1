@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/props/props_lampa_colba"
+	//"$bumpmap" "z-o-m-b-i-e/metro_2033/props/props_lampa_colba_norm"
+	"$surfaceprop" "glass"
+	"$nodecal" "1"
+	"$translucent" "1"
+}

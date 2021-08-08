@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/water/water_milkyfoam1"
+	//"$bumpmap" "z-o-m-b-i-e/metro_2033/water/water_milkyfoam1_norm"
+	"$nodecal" "1"
+	"$translucent" "1"
+}

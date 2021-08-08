@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{	
+	"$basetexture" 					"models/props_xen/c4a1a/scafold00"
+	"$bumpmap" 						"models/props_xen/c4a1a/scafold00_n"
+	"$normalmapalphaenvmapmask" 	"1"
+	
+	"$envmap" 						"env_cubemap"
+	"$envmaptint"					"[0.8 0.8 0.8]"
+	
+	"$phong" 						"1"
+	"$phongboost" 					"2"
+	"$phongalbedotint" 				"1"
+    "$phongexponent" 				"7"
+    "$phongtint" 					"[1 1 1]"
+    "$halflambert" 					"0"
+    "$phongfresnelranges" 			"[.4 .8 30]"
+
+//	"$rimlight" 					"1"
+//	"$rimlightexponent" 			"80"
+//	"$rimlightboost" 				".3"
+    "$model" 1
+}

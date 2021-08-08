@@ -1,0 +1,23 @@
+"patch"
+{
+	"include"		"materials/WATER/WATER_SLIME01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_jupiter_v1/c-272_-8645_-448"
+		"Water_DX80"
+		{
+			"Proxies"
+			{
+			}
+		}
+		"Water_DX81"
+		{
+			"Proxies"
+			{
+			}
+		}
+		"Proxies"
+		{
+		}
+	}
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_lampa_g"
+	//"$//bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_lampa_g_norm"
+	"$surfaceprop" "glass"
+}

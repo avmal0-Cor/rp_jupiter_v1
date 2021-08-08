@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/metro_2033/props/props_fabric"
+	"$bumpmap" "z-o-m-b-i-e/metro_2033/props/props_fabric_norm"
+	"$surfaceprop" "carpet"
+}
+
+	

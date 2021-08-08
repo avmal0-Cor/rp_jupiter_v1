@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "DomiTibingen/Foliage/Deciduous_tree/WeepingWillow_01/bark_long_01"
+
+
+	 $nocull "1"
+}

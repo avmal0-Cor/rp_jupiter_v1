@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "shytan/decals/06-hands"
+    "$decal" 1
+    "$decalscale" 0.10
+    "$translucent" 1
+    "%keywords" "shytan"
+}

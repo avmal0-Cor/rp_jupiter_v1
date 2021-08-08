@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decal_tretyakovskaya/DecalsDamageConcrete0022_1_S"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+	"$surfaceprop" "concrete"
+
+}

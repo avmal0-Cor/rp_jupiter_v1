@@ -1,0 +1,9 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/mtl/mtl_fence2"
+	//"$bumpmap" "z-o-m-b-i-e/STALKER/mtl/mtl_fence2_norm"
+	"$surfaceprop" "metal"
+	"$nodecal" "1"
+	"$translucent" "1"
+}
+	

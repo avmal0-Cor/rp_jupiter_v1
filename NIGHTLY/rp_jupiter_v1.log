@@ -1,7 +1,7 @@
 
 
 
-materialPath: C:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+materialPath: C:\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
 Loading c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.vmf
 ConVarRef mat_reduceparticles doesn't point to an existing ConVar
 Can't find surfaceprop sheetrock for material Z-O-M-B-I-E/STALKER/WALL/WALL_WALLPAPER_03, using default
@@ -51,6 +51,9 @@ Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses 
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend_wvt_patch uses unknown detail object type grass01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend_wvt_patch uses unknown detail object type grass01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend_wvt_patch uses unknown detail object type grass01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
@@ -71,14 +74,955 @@ Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses 
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
-...1...2...3...4...5..Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+.Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend_wvt_patch uses unknown detail object type grass01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend_wvt_patch uses unknown detail object type grass01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend_wvt_patch uses unknown detail object type grass01!
+..1...2...3...4...5..Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
 Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
-.6...7...8...9...10
+.6...7...8Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+.Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+Material VANDERAGSN/WORLDVERTEX/UPITER_BLEND uses unknown detail object type grass01!
+..9...10
 Water found with no water_lod_control entity, creating a default one.
 Compacting texture/material tables...
 Reduced 13704 texinfos to 8112
@@ -86,7 +1030,7 @@ Reduced 329 texdatas to 309 (11999 bytes to 11107)
 ***need to set $abovewater for material maps/rp_jupiter_v1/water/water_slime01_-272_-8645_-448
 ***need to set $abovewater for material maps/rp_jupiter_v1/water/water_slime01_-272_-8645_-448
 Writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
-25 seconds elapsed
+24 seconds elapsed
 
 
 
@@ -94,12 +1038,631 @@ Writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\
 reading c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
 reading c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.prt
 7700 portalclusters
-20619 numportals
-0...1...2...3...4...5...6...7...8...9...10Optimized: 549544 visible clusters (9.51%)
-Total clusters visible: 5778823
+20607 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 549551 visible clusters (9.51%)
+Total clusters visible: 5778746
 Average clusters visible: 750
 Building PAS...
 Average clusters audible: 2180
-visdatasize:4972412  compressed from 14907200
+visdatasize:4972357  compressed from 14907200
 writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
 9 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+[Reading texlights from 'C:\Steam\steamapps\common\GarrysMod\bin\lights.rad']
+[45 texlights parsed from 'C:\Steam\steamapps\common\GarrysMod\bin\lights.rad']
+
+Loading c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
+PREP OK
+Warning! Invalid model version "models/props/gg_tibet/bookclosed.mdl"
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+30774 faces
+60546704 square feet [8718725120.00 square inches]
+1295 Displacements
+13654509 Square Feet [1966249216.00 Square Inches]
+30774 patches before subdivision
+Zero area child patch at around 4509.251465 -3633.312500 -10.752583
+Zero area child patch at around 4504.550781 -3795.320557 -85.355278
+558836 patches after subdivision
+1001 direct lights
+0.
+WARNING: Too many light styles on a face at (-669.000000, 5912.500000, -889.000000)
+
+WARNING: Too many light styles on a face at (-669.000000, 6124.000000, -889.000000)
+
+WARNING: Too many light styles on a face at (-669.000000, 5895.004883, -627.690674)
+
+WARNING: Too many light styles on a face at (-669.000000, 5784.178223, -627.089600)
+
+WARNING: Too many light styles on a face at (-669.000000, 5753.483887, -625.584473)
+
+WARNING: Too many light styles on a face at (-669.000000, 5749.213379, -626.847595)
+
+WARNING: Too many light styles on a face at (-669.000000, 5743.742188, -624.581604)
+
+WARNING: Too many light styles on a face at (-669.000000, 5741.459473, -624.581604)
+
+WARNING: Too many light styles on a face at (-669.000000, 6189.828125, -624.580750)
+
+WARNING: Too many light styles on a face at (-669.000000, 6194.514160, -624.580750)
+
+WARNING: Too many light styles on a face at (-669.000000, 6192.230957, -624.580750)
+
+WARNING: Too many light styles on a face at (-669.000000, 6186.014160, -624.051392)
+
+WARNING: Too many light styles on a face at (-669.000000, 6185.333496, -621.288086)
+
+WARNING: Too many light styles on a face at (-669.000000, 6185.333496, -619.322388)
+
+WARNING: Too many light styles on a face at (-669.000000, 6134.218750, -753.679382)
+
+WARNING: Too many light styles on a face at (-669.000000, 6089.874023, -671.546326)
+
+WARNING: Too many light styles on a face at (-669.000000, 6122.809570, -722.229980)
+
+WARNING: Too many light styles on a face at (-669.000000, 6110.229980, -691.249695)
+
+WARNING: Too many light styles on a face at (-669.000000, 6063.159180, -643.583008)
+
+WARNING: Too many light styles on a face at (-669.000000, 6056.064941, -641.701965)
+
+WARNING: Too many light styles on a face at (-669.000000, 6024.200195, -626.562439)
+
+WARNING: Too many light styles on a face at (-669.000000, 5849.283691, -671.544800)
+
+WARNING: Too many light styles on a face at (-669.000000, 5815.125000, -722.535767)
+
+WARNING: Too many light styles on a face at (-669.000000, 5828.094238, -691.821289)
+
+WARNING: Too many light styles on a face at (-669.000000, 5872.840820, -643.583313)
+
+WARNING: Too many light styles on a face at (-669.000000, 5899.391113, -637.420349)
+
+WARNING: Too many light styles on a face at (-669.000000, 5930.452148, -623.819336)
+
+WARNING: Too many light styles on a face at (-669.000000, 5813.456543, -754.773499)
+
+WARNING: Too many light styles on a face at (-669.000000, 5961.958008, -636.734131)
+
+WARNING: Too many light styles on a face at (-669.000000, 5932.041016, -639.462280)
+
+WARNING: Too many light styles on a face at (-669.000000, 5908.312012, -643.250427)
+
+WARNING: Too many light styles on a face at (-669.000000, 5881.190918, -658.583923)
+
+WARNING: Too many light styles on a face at (-669.000000, 5858.021484, -675.582703)
+
+WARNING: Too many light styles on a face at (-669.000000, 5846.326660, -705.581909)
+
+WARNING: Too many light styles on a face at (-669.000000, 5817.646973, -755.249878)
+
+WARNING: Too many light styles on a face at (-669.000000, 5831.210449, -733.596680)
+
+WARNING: Too many light styles on a face at (-669.000000, 5992.534180, -638.004028)
+
+WARNING: Too many light styles on a face at (-669.000000, 6023.323730, -642.222046)
+
+WARNING: Too many light styles on a face at (-669.000000, 6028.849121, -643.249451)
+
+WARNING: Too many light styles on a face at (-669.000000, 6054.845703, -658.570190)
+
+WARNING: Too many light styles on a face at (-669.000000, 6077.978516, -675.583435)
+
+WARNING: Too many light styles on a face at (-669.000000, 6100.828125, -706.384949)
+
+WARNING: Too many light styles on a face at (-669.000000, 6116.205078, -739.213440)
+
+WARNING: Too many light styles on a face at (-669.000000, 5819.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-669.000000, 6118.928223, -755.186157)
+
+WARNING: Too many light styles on a face at (-669.000000, 5819.000000, -785.937500)
+
+WARNING: Too many light styles on a face at (-669.000000, 6188.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-669.000000, 6188.000000, -785.937500)
+
+WARNING: Too many light styles on a face at (-1124.082886, 6195.000000, -753.916504)
+
+WARNING: Too many light styles on a face at (-1000.477295, 6195.000000, -753.250000)
+
+WARNING: Too many light styles on a face at (-1005.727295, 6195.000000, -753.250000)
+
+WARNING: Too many light styles on a face at (-1010.665649, 6195.000000, -750.902405)
+
+WARNING: Too many light styles on a face at (-1131.522217, 6195.000000, -753.250000)
+
+WARNING: Too many light styles on a face at (-1010.666992, 6195.000000, -748.237061)
+
+WARNING: Too many light styles on a face at (-1092.999023, 6195.000000, -751.296326)
+
+WARNING: Too many light styles on a face at (-1075.330688, 6195.000000, -748.445068)
+.
+WARNING: Too many light styles on a face at (-1464.799927, 5913.698730, -881.000000)
+
+WARNING: Too many light styles on a face at (-1467.999878, 6126.397949, -881.000000)
+
+WARNING: Too many light styles on a face at (-662.399963, 6126.397949, -881.000000)
+
+WARNING: Too many light styles on a face at (-665.599976, 5913.698730, -881.000000)
+
+WARNING: Too many light styles on a face at (-1131.522705, 5741.000000, -753.250000)
+
+WARNING: Too many light styles on a face at (-1126.773071, 5741.000000, -753.117004)
+
+WARNING: Too many light styles on a face at (-1124.000122, 5741.000000, -750.177734)
+
+WARNING: Too many light styles on a face at (-1124.000122, 5741.000000, -748.177795)
+
+WARNING: Too many light styles on a face at (-1059.332153, 5741.000000, -748.317017)
+
+WARNING: Too many light styles on a face at (-1041.661499, 5741.000000, -750.717163)
+
+WARNING: Too many light styles on a face at (-1010.584290, 5741.000000, -754.583130)
+
+WARNING: Too many light styles on a face at (-1000.477783, 5741.000000, -753.250000)
+.
+WARNING: Too many light styles on a face at (-1463.000000, 6134.218750, -753.675781)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6089.873047, -671.546936)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5852.000000, -889.000000)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6122.809082, -722.230774)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6110.231445, -691.251282)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6124.000000, -889.000000)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6063.158691, -643.583923)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6056.063965, -641.702881)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6024.199707, -626.562561)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5813.389160, -754.767761)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5849.283691, -671.539917)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5815.124023, -722.535767)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5828.096191, -691.820007)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5872.839844, -643.582031)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5899.391113, -637.419678)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5930.452148, -623.817688)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6189.833008, -624.583313)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6194.515137, -624.583313)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6192.233398, -624.583313)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6186.016602, -624.056030)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6185.333496, -621.295349)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6185.333496, -619.329712)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5895.008789, -627.690491)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5784.183105, -627.088745)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5753.496582, -625.580444)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5749.220215, -626.841431)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5743.767090, -624.582703)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5741.485352, -624.582703)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5961.958008, -636.735107)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5932.041016, -639.461914)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5908.312500, -643.250061)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5881.189453, -658.582275)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5858.021484, -675.581848)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5846.322266, -705.580505)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5831.210938, -733.596985)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5817.645508, -755.250061)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5992.534180, -638.004333)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6028.848145, -643.249939)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6023.323730, -642.222656)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6054.844727, -658.571289)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6077.978516, -675.583435)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6100.828125, -706.384399)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6116.205566, -739.212097)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6118.927734, -755.183411)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5819.000000, -785.937500)
+
+WARNING: Too many light styles on a face at (-1463.000000, 5819.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6188.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1463.000000, 6188.000000, -785.937500)
+1.
+WARNING: Too many light styles on a face at (-1125.911865, 5736.697266, -784.330872)
+
+WARNING: Too many light styles on a face at (-1125.294312, 6214.243164, -782.170105)
+
+WARNING: Too many light styles on a face at (-1111.457642, 5736.116699, -765.570740)
+
+WARNING: Too many light styles on a face at (-1107.502075, 6212.961914, -760.955750)
+
+WARNING: Too many light styles on a face at (-1092.049072, 5738.375000, -753.511963)
+
+WARNING: Too many light styles on a face at (-1090.286987, 6198.274902, -752.672729)
+
+WARNING: Too many light styles on a face at (-1079.321167, 5736.717285, -750.273315)
+
+WARNING: Too many light styles on a face at (-1072.828857, 6199.645508, -749.654968)
+
+WARNING: Too many light styles on a face at (-1061.043335, 5736.251953, -749.476624)
+
+WARNING: Too many light styles on a face at (-1046.464111, 6198.903320, -750.865112)
+
+WARNING: Too many light styles on a face at (-1042.843750, 5737.378418, -752.134338)
+
+WARNING: Too many light styles on a face at (-1041.318359, 6198.168945, -752.860718)
+
+WARNING: Too many light styles on a face at (-1022.804504, 5731.338867, -762.931335)
+
+WARNING: Too many light styles on a face at (-1015.613281, 6196.550293, -771.320740)
+
+WARNING: Too many light styles on a face at (-1006.804565, 5719.122070, -781.824036)
+
+WARNING: Too many light styles on a face at (-1006.167358, 6200.972656, -784.054504)
+
+WARNING: Too many light styles on a face at (-1464.635132, 5963.826172, -643.606506)
+
+WARNING: Too many light styles on a face at (-667.364075, 5963.823730, -643.606995)
+
+WARNING: Too many light styles on a face at (-1473.186768, 5938.983398, -647.359497)
+
+WARNING: Too many light styles on a face at (-658.814087, 5938.981934, -647.359680)
+
+WARNING: Too many light styles on a face at (-1466.498291, 5911.610840, -656.368164)
+
+WARNING: Too many light styles on a face at (-665.500732, 5911.609863, -656.368774)
+
+WARNING: Too many light styles on a face at (-1472.324219, 5888.782715, -668.469971)
+
+WARNING: Too many light styles on a face at (-659.675049, 5888.784180, -668.469055)
+
+WARNING: Too many light styles on a face at (-1467.641113, 5865.928711, -687.925293)
+
+WARNING: Too many light styles on a face at (-664.358765, 5865.927246, -687.927551)
+
+WARNING: Too many light styles on a face at (-1465.239014, 5850.499023, -707.130127)
+
+WARNING: Too many light styles on a face at (-666.759705, 5850.498535, -707.130066)
+
+WARNING: Too many light styles on a face at (-1475.595337, 5836.075195, -733.267639)
+
+WARNING: Too many light styles on a face at (-1464.429688, 5974.958008, -644.004211)
+
+WARNING: Too many light styles on a face at (-667.569702, 5974.960938, -644.004700)
+
+WARNING: Too many light styles on a face at (-1466.232788, 6021.033691, -654.748962)
+
+WARNING: Too many light styles on a face at (-665.767212, 6021.033691, -654.749084)
+
+WARNING: Too many light styles on a face at (-1466.115845, 6025.393555, -656.891663)
+
+WARNING: Too many light styles on a face at (-665.882935, 6025.395508, -656.892700)
+
+WARNING: Too many light styles on a face at (-1465.233521, 6054.099121, -674.100647)
+
+WARNING: Too many light styles on a face at (-666.765869, 6054.098145, -674.099915)
+
+WARNING: Too many light styles on a face at (-1465.751343, 6070.847656, -688.871155)
+
+WARNING: Too many light styles on a face at (-1465.041382, 6085.528809, -707.182068)
+
+WARNING: Too many light styles on a face at (-1464.934814, 6100.913574, -736.601501)
+..2...
+WARNING: Too many light styles on a face at (4375.249512, 9392.499023, -1033.000000)
+
+WARNING: Too many light styles on a face at (4276.000000, 9312.225586, -1151.000000)
+
+WARNING: Too many light styles on a face at (4225.000000, 9290.240234, -1035.954956)
+3..
+WARNING: Too many light styles on a face at (-1002.250000, 6213.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-856.000000, 6499.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-744.000000, 6679.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-852.500000, 6193.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-996.500000, 6375.999023, -911.000000)
+
+WARNING: Too many light styles on a face at (-979.999512, 6479.000000, -747.875000)
+
+WARNING: Too many light styles on a face at (-979.999512, 6479.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-656.000244, 6195.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-656.000000, 6195.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1008.000244, 6195.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-656.000244, 6195.000000, -641.937500)
+
+WARNING: Too many light styles on a face at (-1001.000000, 6204.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1001.000000, 6203.999512, -811.875000)
+
+WARNING: Too many light styles on a face at (-1030.250000, 6193.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-1030.250000, 6213.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-1030.250000, 6407.999023, -911.000000)
+
+WARNING: Too many light styles on a face at (-1091.999512, 6479.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1155.999512, 6479.000000, -715.875000)
+
+WARNING: Too many light styles on a face at (-1179.000000, 6288.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1179.000000, 6263.999512, -731.875000)
+
+WARNING: Too many light styles on a face at (-1028.000244, 6195.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-1138.000244, 6195.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-1138.000000, 6195.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1284.000244, 6195.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-1284.000000, 6195.000000, -862.000000)
+
+WARNING: Too many light styles on a face at (-1408.000244, 6195.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-1028.000244, 6195.000000, -641.937500)
+
+WARNING: Too many light styles on a face at (-1131.000000, 6217.999512, -842.000000)
+
+WARNING: Too many light styles on a face at (-1131.000000, 6217.999512, -811.875000)
+
+WARNING: Too many light styles on a face at (-1284.000244, 6199.937500, -813.000000)
+
+WARNING: Too many light styles on a face at (-616.000000, 5991.999023, -911.000000)
+
+WARNING: Too many light styles on a face at (-1002.250000, 5733.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-660.500000, 6039.999023, -911.000000)
+
+WARNING: Too many light styles on a face at (-644.000000, 6007.999023, -911.000000)
+
+WARNING: Too many light styles on a face at (-820.500000, 5511.999023, -911.000000)
+
+WARNING: Too many light styles on a face at (-996.480042, 5713.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-996.000061, 5741.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-996.000000, 5741.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1016.000122, 5741.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-1016.000061, 5741.000000, -641.937500)
+
+WARNING: Too many light styles on a face at (-1001.000000, 5724.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1001.000000, 5724.000000, -811.875000)
+.
+WARNING: Too many light styles on a face at (-1528.000000, 6007.999023, -911.000000)
+
+WARNING: Too many light styles on a face at (-1030.239990, 5713.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-1030.250000, 5733.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-1030.250000, 6135.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-1380.500000, 5635.999512, -911.000000)
+
+WARNING: Too many light styles on a face at (-1126.000122, 5741.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-1478.000000, 5741.000000, -653.937500)
+
+WARNING: Too many light styles on a face at (-1478.000000, 5741.000000, -842.000000)
+
+WARNING: Too many light styles on a face at (-1478.000122, 5741.000000, -641.937500)
+
+WARNING: Too many light styles on a face at (-1131.000000, 5733.999512, -811.875000)
+
+WARNING: Too many light styles on a face at (-1131.000000, 5734.000000, -842.000000)
+4...5...6...7...8
+WARNING: Too many light styles on a face at (-14068.864258, -11174.959961, -510.179718)
+
+WARNING: Too many light styles on a face at (-13668.175781, -11263.992188, -510.945831)
+
+WARNING: Too many light styles on a face at (-12955.826172, -10418.086914, -509.999969)
+
+WARNING: Too many light styles on a face at (3339.126953, 1291.225464, -356.299652)
+
+WARNING: Too many light styles on a face at (3472.670898, 1558.390259, -383.963135)
+
+WARNING: Too many light styles on a face at (3606.253174, 1558.400024, -381.245758)
+.
+WARNING: Too many light styles on a face at (-801.391357, 5342.608398, -910.999939)
+
+WARNING: Too many light styles on a face at (-631.000000, 5965.913086, -910.999939)
+
+WARNING: Too many light styles on a face at (-1647.304443, 6010.434570, -910.999939)
+
+WARNING: Too many light styles on a face at (489.739014, 5921.391113, -910.999939)
+
+WARNING: Too many light styles on a face at (-801.391357, 6678.260742, -910.999939)
+.
+WARNING: Too many light styles on a face at (-1339.334351, 5863.833496, -559.000000)
+
+WARNING: Too many light styles on a face at (-796.667114, 6070.166016, -559.000000)
+
+WARNING: Too many light styles on a face at (-1276.750122, 6066.499512, -559.000000)
+
+WARNING: Too many light styles on a face at (-850.250061, 5869.499512, -559.000000)
+
+WARNING: Too many light styles on a face at (-1336.421021, 5872.161621, -559.000000)
+
+WARNING: Too many light styles on a face at (-1336.260132, 6063.379883, -559.000000)
+
+WARNING: Too many light styles on a face at (-795.740051, 6063.379883, -559.000000)
+
+WARNING: Too many light styles on a face at (-1317.000122, 5890.250000, -551.000000)
+
+WARNING: Too many light styles on a face at (-1323.826172, 6051.265625, -555.240356)
+
+WARNING: Too many light styles on a face at (-987.668396, 6054.625488, -554.040100)
+
+WARNING: Too many light styles on a face at (-1318.223389, 5880.261719, -555.151672)
+
+WARNING: Too many light styles on a face at (-824.000000, 5880.706543, -554.707031)
+
+WARNING: Too many light styles on a face at (-811.666809, 6055.958984, -555.373657)
+
+WARNING: Too many light styles on a face at (-808.173706, 6051.265625, -555.240356)
+
+WARNING: Too many light styles on a face at (-1357.737061, 6084.221191, -563.151428)
+
+WARNING: Too many light styles on a face at (-1360.666504, 5843.374023, -566.040344)
+
+WARNING: Too many light styles on a face at (-1020.553833, 6088.404785, -561.818726)
+
+WARNING: Too many light styles on a face at (-864.999939, 5846.708984, -562.705383)
+
+WARNING: Too many light styles on a face at (-778.733276, 6089.826172, -563.240356)
+
+WARNING: Too many light styles on a face at (-774.262756, 6084.221191, -563.151428)
+
+WARNING: Too many light styles on a face at (-1370.066040, 6098.092285, -567.975098)
+
+WARNING: Too many light styles on a face at (-1023.332336, 6094.549316, -567.073059)
+
+WARNING: Too many light styles on a face at (-1364.841797, 5834.435059, -567.914978)
+
+WARNING: Too many light styles on a face at (-914.000549, 5835.979004, -567.729736)
+
+WARNING: Too many light styles on a face at (-764.574585, 6102.732422, -568.054993)
+
+WARNING: Too many light styles on a face at (-761.933044, 6098.092773, -567.975159)
+
+WARNING: Too many light styles on a face at (-1415.950439, 6145.301758, -576.746948)
+
+WARNING: Too many light styles on a face at (-1081.693970, 6146.735840, -575.694885)
+
+WARNING: Too many light styles on a face at (-1412.197388, 5788.260254, -576.564270)
+
+WARNING: Too many light styles on a face at (-944.999084, 5788.872559, -576.033508)
+
+WARNING: Too many light styles on a face at (-717.479736, 6148.385742, -577.124817)
+
+WARNING: Too many light styles on a face at (-716.049316, 6145.302246, -576.747131)
+
+WARNING: Too many light styles on a face at (-690.338623, 6174.292480, -599.804016)
+
+WARNING: Too many light styles on a face at (-1441.661255, 6174.292480, -599.804077)
+
+WARNING: Too many light styles on a face at (-1034.780151, 6173.521484, -599.462524)
+
+WARNING: Too many light styles on a face at (-1441.233154, 5762.458984, -599.512939)
+
+WARNING: Too many light styles on a face at (-952.000183, 5762.485352, -599.448853)
+
+WARNING: Too many light styles on a face at (-696.778381, 6173.519531, -599.458618)
+
+WARNING: Too many light styles on a face at (-670.707458, 6191.999023, -638.706726)
+
+WARNING: Too many light styles on a face at (-1461.292358, 6191.999023, -638.706726)
+
+WARNING: Too many light styles on a face at (-1017.781006, 6191.736816, -637.151550)
+
+WARNING: Too many light styles on a face at (-1458.666504, 5743.374023, -638.040344)
+
+WARNING: Too many light styles on a face at (-964.000000, 5744.707031, -636.707031)
+
+WARNING: Too many light styles on a face at (-670.666626, 6193.958984, -639.373718)
+.9...100...1...2...3...4...5...6...7...8...9...10transfers 35593518, max 2263
+transfer lists: 271.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(165441, 190651, 136633)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(24725, 20165, 12569)
+Build Patch/Sample Hash Table(s).....Done<0.2158 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 167/4096         8016/196608   ( 4.1%) 
+brushes               8311/16384       99732/196608   (50.7%) 
+brushsides           58690/163840     469520/1310720  (35.8%) 
+planes               20940/65536      418800/1310720  (32.0%) 
+vertexes             59474/65536      713688/786432   (90.8%) VERY FULL!
+nodes                21910/65536      701120/2097152  (33.4%) 
+texinfos              8112/12288      584064/884736   (66.0%) 
+texdata                309/2048         9888/65536    (15.1%) 
+dispinfos             1295/0          227920/0        ( 0.0%) 
+disp_verts           97671/0         1953420/0        ( 0.0%) 
+disp_tris           153376/0          306752/0        ( 0.0%) 
+disp_lmsamples     4209896/0         4209896/0        ( 0.0%) 
+faces                30774/65536     1723344/3670016  (47.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            17896/65536     1002176/3670016  (27.3%) 
+leaves               22078/65536      706496/2097152  (33.7%) 
+leaffaces            36122/65536       72244/131072   (55.1%) 
+leafbrushes          21535/65536       43070/131072   (32.9%) 
+areas                   72/1024          576/8192     ( 7.0%) 
+surfedges           213162/512000     852648/2048000  (41.6%) 
+edges               138951/256000     555804/1024000  (54.3%) 
+LDR worldlights       1001/8192        88088/720896   (12.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2752/32768       27520/327680   ( 8.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         47952/65536       95904/131072   (73.2%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays               259/1024        91168/360448   (25.3%) 
+LDR lightdata         [variable]    66367112/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4972357/16777216 (29.6%) 
+entdata               [variable]     1057624/393216   (269.0%) VERY FULL!
+LDR ambient table    22078/65536       88312/262144   (33.7%) 
+HDR ambient table    22078/65536       88312/262144   (33.7%) 
+LDR leaf ambient     93769/65536     2625532/1835008  (143.1%) VERY FULL!
+HDR leaf ambient     22078/65536      618184/1835008  (33.7%) 
+occluders                7/0             280/0        ( 0.0%) 
+occluder polygons       43/0             516/0        ( 0.0%) 
+occluder vert ind      182/0             728/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/852020   ( 0.0%) 
+pakfile               [variable]      238150/0        ( 0.0%) 
+physics               [variable]     2942906/4194304  (70.2%) 
+physics terrain       [variable]      335169/1048576  (32.0%) 
+
+Level flags = 0
+
+Total triangle count: 80390
+Writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
+4 minutes, 12 seconds elapsed

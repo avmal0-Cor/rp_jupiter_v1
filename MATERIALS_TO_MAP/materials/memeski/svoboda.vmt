@@ -1,0 +1,5 @@
+DecalModulate
+{
+	$basetexture "memeski/svoboda"
+	$surfaceprop Default
+}

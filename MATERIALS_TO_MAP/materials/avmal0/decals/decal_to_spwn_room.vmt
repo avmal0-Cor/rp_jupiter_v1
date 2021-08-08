@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+    $basetexture avmal0/decals/decal_to_spwn_room
+    $decal       1
+ // $alphatest   1
+    $translucent 1
+ // %keywords    decal,avmal0,stalker,decal1
+}

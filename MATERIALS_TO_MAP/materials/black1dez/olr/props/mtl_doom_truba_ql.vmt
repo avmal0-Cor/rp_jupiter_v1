@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "black1dez/OLR/props/mtl_doom_truba_ql"
+
+	$nocull 1
+}

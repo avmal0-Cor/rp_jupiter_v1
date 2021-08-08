@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/wood/wood_chipboard1"
+
+      	//"$bumpmap" "models/stalker_res/wood/wood_chipboard1_dirt_normal"
+}

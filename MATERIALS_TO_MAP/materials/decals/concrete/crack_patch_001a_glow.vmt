@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	$basetexture "decals/concrete/crack_patch_001a_glow"
+
+	$decal 1
+	$decalscale 0.25
+	$translucent 1
+	$additive 1
+}

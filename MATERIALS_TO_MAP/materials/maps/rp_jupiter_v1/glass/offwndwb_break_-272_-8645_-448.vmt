@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/offwndwb_break.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_jupiter_v1/c-272_-8645_-448"
+		"Proxies"
+		{
+		}
+	}
+}

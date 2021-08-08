@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/wall/wall_pripyat_houses"
+
+	"$bumpmap"	"models/stalker_res/wall/wall_pripyat_houses_normal"
+ 	//"$ssbump"		1
+}

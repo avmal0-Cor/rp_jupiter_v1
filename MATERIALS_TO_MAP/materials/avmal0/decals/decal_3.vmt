@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+    $basetexture    avmal0/decals/decal_3
+    $alphatest      1
+ // $translucent    1
+ // $decal          1
+
+    $modelmaterial  avmal0/decals/decal_3_model
+}

@@ -1,0 +1,11 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/wood/wood_doski2_1"
+	//"$bumpmap" "z-o-m-b-i-e/STALKER/wood/wood_doski2_1_norm"
+	"$surfaceprop" "wood"
+	"$detail" "z-o-m-b-i-e/STALKER/detail/detail_wood_det1"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "0.4"
+	"$detailblendmode" "0"
+	
+}

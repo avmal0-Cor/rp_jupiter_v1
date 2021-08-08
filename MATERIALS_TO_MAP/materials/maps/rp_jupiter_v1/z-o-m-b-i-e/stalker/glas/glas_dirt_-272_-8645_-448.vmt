@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/Z-O-M-B-I-E/STALKER/GLAS/GLAS_DIRT.vmt"
+	"replace"
+	{
+		"$crackmaterial"		"maps/rp_jupiter_v1/glass/offwndwb_break_-272_-8645_-448"
+	}
+}

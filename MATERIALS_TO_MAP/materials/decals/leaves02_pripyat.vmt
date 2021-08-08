@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+$baseTexture "maps/overlay/leaves01"
+$translucent 1
+$decal 1
+$decalscale "0.250000"
+$surfaceprop grass
+$vertexalpha 1
+$vertexcolor 1
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hostel/decal/03"
+	"$decal" "1"
+	"$decalscale" 0.25
+	"$alphatest" "1"
+}

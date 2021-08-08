@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/rp_jupiter_v1/water/water_slime01_-272_-8645_-448.vmt"
+	"insert"
+	{
+		"$waterdepth"		"64"
+	}
+}

@@ -1,0 +1,12 @@
+Sprite
+{
+	$basetexture "goodpups"
+	$surfaceprop Computer
+
+	$decal 1
+
+	$spriteorientation parallel_upright
+	$spriteorigin "[0.5 0.5]"
+
+	$decalscale 0.25
+}

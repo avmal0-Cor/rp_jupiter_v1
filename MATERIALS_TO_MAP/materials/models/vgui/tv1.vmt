@@ -1,0 +1,26 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/vgui/tv1"
+
+
+
+	"$selfillum" "1"
+"$selfillumtint" "[.5 .5 .5]"
+
+
+	"$halflambert" "1"
+
+
+
+  "Proxies"
+{
+     "AnimatedTexture"
+{
+        "animatedtexturevar" "$basetexture"
+        "animatedtextureframenumvar" "$frame"
+        "animatedtextureframerate" "20"
+}
+
+  }
+
+}

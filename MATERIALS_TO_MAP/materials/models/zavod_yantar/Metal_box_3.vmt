@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/zavod_yantar/Metal_box_3"
+	"$surfaceprop" "wood"
+}

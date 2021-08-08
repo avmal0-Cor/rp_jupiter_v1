@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/prop/prop_dangerbox"
+      	"$bumpmap" "models/stalker_res/prop/prop_dangerbox_normal"
+}

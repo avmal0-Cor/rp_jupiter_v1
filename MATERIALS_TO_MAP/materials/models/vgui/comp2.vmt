@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/vgui/comp2"
+
+
+
+	"$selfillum" "1"
+"$selfillumtint" "[1 1 1]"
+
+
+	"$halflambert" "1"
+
+
+
+
+
+}

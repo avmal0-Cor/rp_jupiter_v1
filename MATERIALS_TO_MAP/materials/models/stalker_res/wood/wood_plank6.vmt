@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/wood/wood_plank6"
+      	"$bumpmap" "models/stalker_res/wood/wood_plank6_normal"
+
+	"$detail" "models/stalker_res/detail/detail_wood_det1"
+	"$detailscale" "1"
+	"$detailblendfactor" 1.7
+	"$detailblendmode" 0
+}

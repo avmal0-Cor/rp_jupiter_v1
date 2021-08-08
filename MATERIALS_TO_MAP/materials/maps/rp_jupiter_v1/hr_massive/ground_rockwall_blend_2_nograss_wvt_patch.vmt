@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"%tooltexture"		"hr_massive\ground_rockwall_blend_2_tooltexture"
+	"$basetexture"		"hr_massive\dirt_ground_1b"
+	"$bumpmap"		"hr_massive\dirt_ground_1b_normal"
+	"$surfaceprop"		"dirt"
+}
