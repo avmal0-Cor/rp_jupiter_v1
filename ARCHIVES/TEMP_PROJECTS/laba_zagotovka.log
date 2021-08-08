@@ -1,0 +1,17 @@
+
+
+
+materialPath: C:\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\archives\temp_projects\laba_zagotovka.vmf
+Map revision 5
+Could not locate 'GameData' key in c:\steam\steamapps\common\source sdk base 2013 multiplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_button (-338.81 1429.06 54.73) leaked!
+--- MAP LEAKED ---
+
+
+
+4 threads
+reading c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\archives\temp_projects\laba_zagotovka.bsp
+Error opening c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\archives\temp_projects\laba_zagotovka.bsp
