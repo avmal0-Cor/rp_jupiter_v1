@@ -1666,3 +1666,94 @@ Level flags = 0
 Total triangle count: 80390
 Writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
 4 minutes, 12 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material Z-O-M-B-I-E/STALKER/WALL/WALL_WALLPAPER_03, using default
+***need to set $abovewater for material water/water_slime01
+***need to set $abovewater for material water/water_slime01
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETE_WALL_CRETE4W, using default
+Patching WVT material: maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend_wvt_patch
+Patching WVT material: maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch
+Patching WVT material: maps/rp_jupiter_v1/hr_massive/ground_rockwall_blend_2_nograss_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 884 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/zaton/c_expos_zaton_evening_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/zaton/c_expos_zaton_evening_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2942842 bytes)
+WARNING! model "models/props/gg_tibet/bookclosed.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Placing detail props : 0Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+...1...2...3...4...5..Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+Material maps/rp_jupiter_v1/vanderagsn/worldvertex/upiter_blend2_wvt_patch uses unknown detail object type Z_grass_border_01!
+.6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 13741 texinfos to 8112
+Reduced 330 texdatas to 309 (12076 bytes to 11142)
+***need to set $abovewater for material maps/rp_jupiter_v1/water/water_slime01_-272_-8645_-448
+***need to set $abovewater for material maps/rp_jupiter_v1/water/water_slime01_-272_-8645_-448
+Writing c:\workinon_projects\return_to_map_workin_on_gmod\rp_jupiter_v1\nightly\rp_jupiter_v1.bsp
+27 seconds elapsed
