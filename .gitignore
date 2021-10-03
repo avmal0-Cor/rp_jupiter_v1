@@ -4,6 +4,7 @@
 *.bsp
 # Don't include old logs because why I should include shit in repo?
 *.log_OLD
+*.log.old
 # Last compile made new file log records, but records can be created with new file log. That's why I should made it.
 
 # Don't include lin files because *.lin files only for debug.
